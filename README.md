@@ -57,7 +57,7 @@
 |---------|-------------|-----------|
 | [🛡️ Linux Server Hardening](https://github.com/shashi-vishwakarma/linux-server-hardening) | Complete server security hardening on CentOS | iptables, SELinux, Fail2ban, SSH |
 | [👥 User Management Script](https://github.com/shashi-vishwakarma/linux-user-management) | Automated bulk user creation and permission management | Bash, chmod, chown, groupadd |
-
+| [💾 LVM Storage Management](https://github.com/shashi-vishwakarma/linux-lvm-storage) | Live LVM extend, snapshot, fstab mount | fdisk, pvcreate, lvextend, resize2fs |
 ---
 
 ## 🎓 Education & Certification
