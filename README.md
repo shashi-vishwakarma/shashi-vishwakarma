@@ -1,7 +1,7 @@
 # Hi, I'm Shashi Vishwakarma 👋
 
 ### Linux System Administrator | Technical Support Engineer
-📍 Dombivli, Maharashtra |📧 nitinvishwakarma0099@gmail.com
+📍 Dombivli, Maharashtra |📧 shashivishwakarma0099@gmail.com
 
 ---
 
