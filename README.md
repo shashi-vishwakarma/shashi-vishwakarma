@@ -59,6 +59,7 @@
 | [👥 User Management Script](https://github.com/shashi-vishwakarma/linux-user-management) | Automated bulk user creation and permission management | Bash, chmod, chown, groupadd |
 | [💾 LVM Storage Management](https://github.com/shashi-vishwakarma/linux-lvm-storage) | Live LVM extend, snapshot, fstab mount | fdisk, pvcreate, lvextend, resize2fs |
 | [🌐 Networking Lab](https://github.com/shashi-vishwakarma/linux-networking-lab) | Static IP, IP alias, firewalld, tcpdump, traceroute | nmcli, firewalld, tcpdump, ss, mtr |
+| [💻 Bash Disk Monitor](https://github.com/shashi-vishwakarma/bash-disk-monitor) | Automated disk usage monitoring with alerts | Bash, df, awk, tr |
 
 ## 🎓 Education & Certification
 
