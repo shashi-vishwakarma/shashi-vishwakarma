@@ -1,81 +1,87 @@
-# Hi, I'm Shashi Vishwakarma 👋
+<h1 align="center">Hi 👋, I'm Shashi Vishwakarma</h1>
+<h3 align="center">Aspiring DevOps Engineer | Linux | AWS | Docker | Jenkins | Terraform</h3>
 
-### Linux System Administrator | Technical Support Engineer
-📍 Dombivli, Maharashtra |📧 shashivishwakarma0099@gmail.com
-
----
-
-## 👨‍💻 About Me
-
-- 🖥️ Passionate about Linux system administration and IT infrastructure
-- 📚 Completed RHCSA + RHCE training from Sadhix Institute
-- 🔭 Currently building hands-on Linux admin labs
-- 💼 Open to Work — Linux Admin / Sysadmin / Technical Support roles
-- 🎓 B.Sc Computer Science — 8.9 CGPA (2024)
+<p align="center">
+Passionate about building production-ready cloud infrastructure, CI/CD pipelines, containerized applications, and monitoring solutions.
+</p>
 
 ---
 
-## 💼 Experience
+## 🚀 About Me
 
-**Technical Support Engineer — Trinant Technologies**
-*(Jul 2024 – Jan 2025)*
-- Provided hardware/software support for 150+ employees at client location
-- Troubleshot LAN connectivity, OS issues, and software installations
-- Managed IT asset inventory and coordinated vendor interactions
-- Handled tickets and documented resolutions using Jira
-
-**Linux Administration Training — Sadhix Institute**
-*(Jan 2025 – Jul 2025)*
-- Completed RHCSA + RHCE course with hands-on labs
-- Configured users, groups, permissions, firewall, SELinux
-- Practiced storage management, networking, and automation
+- 🎓 B.Sc. in Computer Science
+- 💻 Aspiring DevOps & Cloud Engineer
+- 🐧 Strong Linux & Networking Fundamentals
+- ☁️ Hands-on with AWS, Docker, Terraform & Jenkins
+- 📊 Passionate about Infrastructure Monitoring & Automation
+- 🌱 Currently learning advanced CI/CD and cloud-native technologies
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Linux**
-`RHEL` `CentOS` `Ubuntu` `Fedora`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,terraform,jenkins,git,github,python,vscode"/>
+</p>
 
-**System Administration**
-`User Management` `Permissions` `systemd` `SELinux` `LVM` `Cron`
+### Monitoring & Observability
 
-**Networking**
-`iptables` `SSH` `DNS` `DHCP` `TCP/IP` `Subnetting`
-
-**Cloud**
-`AWS EC2` `IAM` `VPC` `S3` `Security Groups`
-
-**Tools**
-`Jira` `Git` `GitHub` `Bash Scripting` `RPM/YUM`
+- Prometheus
+- Grafana
+- Alertmanager
+- Node Exporter
+- cAdvisor
+- Blackbox Exporter
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [🛡️ Linux Server Hardening](https://github.com/shashi-vishwakarma/linux-server-hardening) | Complete server security hardening on CentOS | iptables, SELinux, Fail2ban, SSH |
-| [👥 User Management Script](https://github.com/shashi-vishwakarma/linux-user-management) | Automated bulk user creation and permission management | Bash, chmod, chown, groupadd |
-| [💾 LVM Storage Management](https://github.com/shashi-vishwakarma/linux-lvm-storage) | Live LVM extend, snapshot, fstab mount | fdisk, pvcreate, lvextend, resize2fs |
-| [🌐 Networking Lab](https://github.com/shashi-vishwakarma/linux-networking-lab) | Static IP, IP alias, firewalld, tcpdump, traceroute | nmcli, firewalld, tcpdump, ss, mtr |
-| [💻 Bash Disk Monitor](https://github.com/shashi-vishwakarma/bash-disk-monitor) | Automated disk usage monitoring with alerts | Bash, df, awk, tr |
+### 🔹 Production Infrastructure Monitoring & Observability Platform
 
-## 🎓 Education & Certification
+- Dockerized Python Flask application
+- Prometheus metrics collection
+- Grafana dashboards
+- Alertmanager integration
+- Node Exporter, cAdvisor & Blackbox Exporter
+- Production-style monitoring architecture
 
-| 🎓 B.Sc Computer Science | Mumbai University — 2024 — CGPA: 8.9 |
-| 📜 RHCSA + RHCE Course | Sadhix Institute — 2025 |
-| 🏫 HSC (12th) | 2020 — 57.60% |
-| 🏫 SSC (10th) | 2018 — 76.40% |
+---
+
+### 🔹 Two-Tier Web Application Deployment using Jenkins & Docker
+
+- Automated CI/CD pipeline using Jenkins
+- Dockerized Python Flask application
+- MySQL database container
+- Docker Compose deployment
+- Automatic image build & deployment
+- Multi-container application architecture
+
+---
+
+### 🔹 AWS Three-Tier Architecture
+
+- Amazon VPC
+- EC2
+- Security Groups
+- Internet Gateway
+- Load Balancer
+- Auto Scaling
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashi-vishwakarma&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-vishwakarma&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shashi-vishwakarma&show_icons=true&theme=github_dark"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-vishwakarma&theme=github-dark"/>
+</p>
 
 ---
 
-⭐ *Currently completing 8 Linux Admin hands-on labs — more projects coming soon!*
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL
+
