@@ -82,6 +82,6 @@ Passionate about building production-ready cloud infrastructure, CI/CD pipelines
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/shashi-vishwakarma-8551463b7/
+- 📧 Email: shashivishwakarma0099@gmail.com
 
