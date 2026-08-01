@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashi Vishwakarma</h1>
+<h1 align="center">I'm Shashi Vishwakarma</h1>
 <h3 align="center">Aspiring DevOps Engineer | Linux | AWS | Docker | Jenkins | Terraform</h3>
 
 <p align="center">
